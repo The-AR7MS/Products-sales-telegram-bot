@@ -111,9 +111,5 @@ telegram bot/
 - Image support for products  
 - Web dashboard for analytics  
 
----
 
-## photos
-![Screenshot 1]()
-![Screenshot 2](https://github.com/The-AR7MS/Products-sales-telegram-bot/blob/main/photo_6044372381666577337_y.jpg)
-![Screenshot 3]()
+
