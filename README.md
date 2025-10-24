@@ -114,6 +114,6 @@ telegram bot/
 ---
 
 ## photos
-![Screenshot 1](https://github.com/The-AR7MS/Products-sales-telegram-bot/blob/main/photo_6044372381666577338_y.jpg)
+![Screenshot 1]()
 ![Screenshot 2](https://github.com/The-AR7MS/Products-sales-telegram-bot/blob/main/photo_6044372381666577337_y.jpg)
-![Screenshot 3](https://github.com/The-AR7MS/Products-sales-telegram-bot/blob/main/photo_6044372381666577338_y.jpg)
+![Screenshot 3]()
